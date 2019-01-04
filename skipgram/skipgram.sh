@@ -1,0 +1,1 @@
+cd ../word2vecpy && python word2vec.py -train ..//Data/alldata -model ../skipgram/vectors_skipgram.txt -dim $1

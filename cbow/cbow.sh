@@ -1,0 +1,1 @@
+cd ../word2vecpy && python word2vec.py -train ../Data/alldata -model ../cbow/vectors_cbow.txt -cbow 1 -dim $1
