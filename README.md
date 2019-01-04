@@ -2,7 +2,7 @@
 Corpus collection and training word vectors  
   
 ############################################################  
-#THE THREE MODELS  
+THE THREE MODELS  
 ############################################################  
 GloVe :     
 1) cd to GloVe - "cd GloVe"  
